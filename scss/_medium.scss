@@ -1,0 +1,21 @@
+  nav {
+    li {
+      width: 15%;
+    }
+  }
+
+  .members {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+
+  .member {
+    max-width: 50%;
+  }
+
+  // div.headerWrapper {
+    
+  // }
+ 
